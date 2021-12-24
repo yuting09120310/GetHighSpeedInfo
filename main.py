@@ -1,5 +1,13 @@
 import json 
 
-with open('2021_12_23.json',encoding = 'utf8') as f:
+
+
+with open('test.json',encoding = 'utf8') as f:
     data = json.load(f)
-print(data)
+
+    def search():
+        return [datum for datum in data ]
+
+    for dict in data:
+        datum = search()
+        print(datum['No'])
