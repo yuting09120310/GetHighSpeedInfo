@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
                 query = "insert into Timetable (日期,車號,起站,起站時間,驛站,驛站時間) VALUES "
                 comment = query + TrainDate + TrainNO + StationName + ArrivalTime + EndName + EndTime
-
+                # print(comment)
                 cursor.execute(comment)
                 # 如果沒有指定autocommit屬性為True的話就需要呼叫commit()方法
                 conn.commit()
