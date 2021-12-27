@@ -46,27 +46,35 @@ if __name__ == '__main__':
         cursor = conn.cursor()
         
         a = Auth(app_id, app_key)
+        
+        station = ["0990","1000","1010","1020","1030","1035","1040","1043","1047","1050","1060","1070"]
 
         d1 = datetime.now()
-        for i in range(1,keynum):
+        for i in range(0,keynum):    
             d3 = d1 + timedelta(days=i)
-            url = 'https://ptx.transportdata.tw/MOTC/v2/Rail/THSR/DailyTimetable/OD/0990/to/1010/' + d3.strftime('%Y-%m-%d') + '?%24top=10000&%24format=JSON'
-            response = request('get', url, headers= a.get_auth_header())
-            content = response.content.decode()  #重新編碼 預設空的為utf8
-            data = json.loads(content)
-            
-            for i in data:
-                item = list(i.values())
-                TrainDate = "('" + item[0] + "' ,"
-                TrainNO = "'" + item[1]["TrainNo"] + "' ,"
-                StationName = " '" + item[2]["StationName"]["Zh_tw"] + "' ,"
-                ArrivalTime = " '" + item[2]["ArrivalTime"] + "' ,"
-                EndName = " '" + item[3]["StationName"]["Zh_tw"] + "' ,"
-                EndTime = " '" + item[3]["ArrivalTime"]+ "')"
 
-                query = "insert into Timetable (日期,車號,起站,起站時間,驛站,驛站時間) VALUES "
-                comment = query + TrainDate + TrainNO + StationName + ArrivalTime + EndName + EndTime
-                # print(comment)
-                cursor.execute(comment)
-                # 如果沒有指定autocommit屬性為True的話就需要呼叫commit()方法
-                conn.commit()
+            for j in range(0,len(station)):
+                for l in reversed(range(0,len(station))):
+                    url = 'https://ptx.transportdata.tw/MOTC/v2/Rail/THSR/DailyTimetable/OD/' + station[j] + '/to/' + station[l] + '/' + d3.strftime('%Y-%m-%d') + '?%24top=10000&%24format=JSON'
+                    response = request('get', url, headers= a.get_auth_header())
+                    content = response.content.decode()  #重新編碼 預設空的為utf8
+                    data = json.loads(content)
+                    
+                    for k in data:
+                        item = list(k.values())
+                        TrainDate = "('" + item[0] + "' ,"
+                        TrainNO = "'" + item[1]["TrainNo"] + "' ,"
+                        StationName = " '" + item[2]["StationName"]["Zh_tw"] + "' ,"
+                        ArrivalTime = " '" + item[2]["ArrivalTime"] + "' ,"
+                        StartSequence = " '" + str(item[2]['StopSequence']) + "' ,"
+
+                        EndName = " '" + item[3]["StationName"]["Zh_tw"] + "' ,"
+                        EndTime = " '" + item[3]["ArrivalTime"]+ "' ,"
+                        StopSequence = " '" + str(item[3]["StopSequence"]) + "')"
+
+                        query = "insert into Timetable (日期,車號,起站,起站時間,StartSequence,驛站,驛站時間,StopSequence) VALUES "
+                        comment = query + TrainDate + TrainNO + StationName + ArrivalTime + StartSequence + EndName + EndTime + StopSequence
+                        # print(comment)
+                        cursor.execute(comment)
+                        # 如果沒有指定autocommit屬性為True的話就需要呼叫commit()方法
+                        conn.commit()

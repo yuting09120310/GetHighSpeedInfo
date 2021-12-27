@@ -1,0 +1,2280 @@
+[
+  {
+    "TrainNo": "0108",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0109",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0144",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0153",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0203",
+    "Direction": 0,
+    "StartingStationID": "1000",
+    "StartingStationName": {
+      "Zh_tw": "台北",
+      "En": "Taipei"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0204",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0205",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0206",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0209",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0210",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0213",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0214",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0217",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0218",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0221",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0222",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0225",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0226",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0229",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0230",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0233",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0234",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0237",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0238",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0241",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0242",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0245",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0246",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0249",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0250",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0253",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0254",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0257",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0258",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0293",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0294",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0295",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0300",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0333",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0502",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0508",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0565",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0567",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0583",
+    "Direction": 0,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0598",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0603",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0606",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0609",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0610",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0612",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0613",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0615",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0616",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0618",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0619",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0621",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0624",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0625",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0627",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0628",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0630",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0633",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0636",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0639",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0642",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0645",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0648",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0651",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0654",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0657",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0658",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0660",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0661",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0663",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0664",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0666",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0667",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0669",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0670",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0672",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0673",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0675",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0676",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0678",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0681",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0684",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0687",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0690",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0693",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0696",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "1000",
+    "EndingStationName": {
+      "Zh_tw": "台北",
+      "En": "Taipei"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0802",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0803",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0805",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0806",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0809",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0810",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0813",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0814",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0817",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0818",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0821",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0822",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0825",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0826",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0829",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0830",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0833",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0834",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0837",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0838",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0841",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0842",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0845",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0846",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0849",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0850",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0853",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0854",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0857",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0858",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0861",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "0862",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1112",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1145",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1148",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1202",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1302",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1321",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1504",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1505",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1510",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1514",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1602",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainNo": "1622",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "Note": {},
+    "UpdateTime": "2021-11-29T02:35:39+08:00",
+    "VersionID": 1
+  }
+]

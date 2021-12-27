@@ -1,0 +1,2362 @@
+[
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0803",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "06:15",
+      "DepartureTime": "06:15"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "06:33",
+      "DepartureTime": "06:34"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0603",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "06:40",
+      "DepartureTime": "06:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "06:59",
+      "DepartureTime": "07:00"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0805",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "07:00",
+      "DepartureTime": "07:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "07:18",
+      "DepartureTime": "07:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0109",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "07:20",
+      "DepartureTime": "07:20"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "07:38",
+      "DepartureTime": "07:39"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "1505",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1040",
+      "EndingStationName": {
+        "Zh_tw": "台中",
+        "En": "Taichung"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "07:25",
+      "DepartureTime": "07:25"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "07:45",
+      "DepartureTime": "07:46"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0609",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "07:35",
+      "DepartureTime": "07:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "07:54",
+      "DepartureTime": "07:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0205",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "07:40",
+      "DepartureTime": "07:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "07:58",
+      "DepartureTime": "07:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0809",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "08:00",
+      "DepartureTime": "08:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "08:18",
+      "DepartureTime": "08:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0613",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "08:10",
+      "DepartureTime": "08:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "08:28",
+      "DepartureTime": "08:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0615",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "08:35",
+      "DepartureTime": "08:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "08:54",
+      "DepartureTime": "08:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0209",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "08:40",
+      "DepartureTime": "08:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "08:58",
+      "DepartureTime": "08:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0813",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "09:00",
+      "DepartureTime": "09:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "09:18",
+      "DepartureTime": "09:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0619",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "09:10",
+      "DepartureTime": "09:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "09:28",
+      "DepartureTime": "09:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0621",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "09:35",
+      "DepartureTime": "09:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "09:54",
+      "DepartureTime": "09:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0213",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "09:40",
+      "DepartureTime": "09:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "09:58",
+      "DepartureTime": "09:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0817",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "10:00",
+      "DepartureTime": "10:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "10:18",
+      "DepartureTime": "10:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0625",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "10:10",
+      "DepartureTime": "10:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "10:28",
+      "DepartureTime": "10:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0627",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "10:35",
+      "DepartureTime": "10:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "10:54",
+      "DepartureTime": "10:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0217",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "10:40",
+      "DepartureTime": "10:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "10:58",
+      "DepartureTime": "10:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0821",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "11:00",
+      "DepartureTime": "11:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "11:18",
+      "DepartureTime": "11:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0633",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "11:35",
+      "DepartureTime": "11:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "11:54",
+      "DepartureTime": "11:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0221",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "11:40",
+      "DepartureTime": "11:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "11:58",
+      "DepartureTime": "11:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0825",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "12:00",
+      "DepartureTime": "12:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "12:18",
+      "DepartureTime": "12:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0639",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "12:35",
+      "DepartureTime": "12:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "12:54",
+      "DepartureTime": "12:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0225",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "12:40",
+      "DepartureTime": "12:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "12:58",
+      "DepartureTime": "12:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0829",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "13:00",
+      "DepartureTime": "13:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "13:18",
+      "DepartureTime": "13:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0645",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "13:35",
+      "DepartureTime": "13:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "13:54",
+      "DepartureTime": "13:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0229",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "13:40",
+      "DepartureTime": "13:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "13:58",
+      "DepartureTime": "13:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0833",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "14:00",
+      "DepartureTime": "14:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "14:18",
+      "DepartureTime": "14:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0651",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "14:35",
+      "DepartureTime": "14:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "14:54",
+      "DepartureTime": "14:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0233",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "14:40",
+      "DepartureTime": "14:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "14:58",
+      "DepartureTime": "14:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0837",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "15:00",
+      "DepartureTime": "15:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "15:18",
+      "DepartureTime": "15:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0657",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "15:35",
+      "DepartureTime": "15:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "15:54",
+      "DepartureTime": "15:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0237",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "15:40",
+      "DepartureTime": "15:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "15:58",
+      "DepartureTime": "15:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0841",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "16:00",
+      "DepartureTime": "16:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "16:18",
+      "DepartureTime": "16:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0661",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "16:10",
+      "DepartureTime": "16:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "16:28",
+      "DepartureTime": "16:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "1145",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "16:20",
+      "DepartureTime": "16:20"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "16:38",
+      "DepartureTime": "16:39"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0663",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "16:35",
+      "DepartureTime": "16:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "16:54",
+      "DepartureTime": "16:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0241",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "16:40",
+      "DepartureTime": "16:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "16:58",
+      "DepartureTime": "16:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0845",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "17:00",
+      "DepartureTime": "17:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "17:18",
+      "DepartureTime": "17:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0667",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "17:10",
+      "DepartureTime": "17:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "17:28",
+      "DepartureTime": "17:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0669",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "17:35",
+      "DepartureTime": "17:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "17:54",
+      "DepartureTime": "17:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0245",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "17:40",
+      "DepartureTime": "17:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "17:58",
+      "DepartureTime": "17:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0849",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "18:00",
+      "DepartureTime": "18:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "18:18",
+      "DepartureTime": "18:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0673",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "18:10",
+      "DepartureTime": "18:10"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "18:28",
+      "DepartureTime": "18:29"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0153",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "18:20",
+      "DepartureTime": "18:20"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "18:38",
+      "DepartureTime": "18:39"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0675",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "18:35",
+      "DepartureTime": "18:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "18:54",
+      "DepartureTime": "18:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0249",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "18:40",
+      "DepartureTime": "18:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "18:58",
+      "DepartureTime": "18:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0853",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "19:00",
+      "DepartureTime": "19:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "19:18",
+      "DepartureTime": "19:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0681",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "19:35",
+      "DepartureTime": "19:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "19:54",
+      "DepartureTime": "19:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0253",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "19:40",
+      "DepartureTime": "19:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "19:58",
+      "DepartureTime": "19:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0857",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "20:00",
+      "DepartureTime": "20:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "20:18",
+      "DepartureTime": "20:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0687",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "20:35",
+      "DepartureTime": "20:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "20:54",
+      "DepartureTime": "20:55"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0257",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "20:40",
+      "DepartureTime": "20:40"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "20:58",
+      "DepartureTime": "20:59"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0861",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "21:00",
+      "DepartureTime": "21:00"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "21:18",
+      "DepartureTime": "21:19"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0693",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "21:30",
+      "DepartureTime": "21:30"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "21:49",
+      "DepartureTime": "21:50"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0293",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1070",
+      "EndingStationName": {
+        "Zh_tw": "左營",
+        "En": "Zuoying"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "21:35",
+      "DepartureTime": "21:35"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "21:53",
+      "DepartureTime": "21:54"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0565",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1040",
+      "EndingStationName": {
+        "Zh_tw": "台中",
+        "En": "Taichung"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "22:15",
+      "DepartureTime": "22:15"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "22:34",
+      "DepartureTime": "22:35"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2021-12-28",
+    "DailyTrainInfo": {
+      "TrainNo": "0567",
+      "Direction": 0,
+      "StartingStationID": "0990",
+      "StartingStationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "EndingStationID": "1040",
+      "EndingStationName": {
+        "Zh_tw": "台中",
+        "En": "Taichung"
+      },
+      "Note": {}
+    },
+    "OriginStopTime": {
+      "StopSequence": 1,
+      "StationID": "0990",
+      "StationName": {
+        "Zh_tw": "南港",
+        "En": "Nangang"
+      },
+      "ArrivalTime": "22:50",
+      "DepartureTime": "22:50"
+    },
+    "DestinationStopTime": {
+      "StopSequence": 3,
+      "StationID": "1010",
+      "StationName": {
+        "Zh_tw": "板橋",
+        "En": "Banqiao"
+      },
+      "ArrivalTime": "23:07",
+      "DepartureTime": "23:08"
+    },
+    "UpdateTime": "2021-11-30T04:35:39+08:00",
+    "VersionID": 1
+  }
+]
